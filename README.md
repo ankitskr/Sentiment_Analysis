@@ -18,7 +18,7 @@ This project leverages several technologies and libraries within the Python ecos
 - **Python**: The primary programming language used.
 - **NumPy and Pandas**: For numerical operations and data manipulation.
 - **Matplotlib**: For data visualization.
-- **Scikit-Learn**: Provides tools for data mining and data analysis, including various machine learning models.
+- **Scikit-Learn**: Provides tools for advance data analysis, including various machine learning models.
 - **NLTK**: For processing textual data.
 - **Jupyter Notebook**: Used for creating and sharing the project notebook with live code.
 
